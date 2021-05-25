@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Circuit</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="resistor">Resistor</string>
+    <string name="wire">Wire</string>
+    <string name="rWire">rWire</string>
+    <string name="tWire">tWire</string>
+    <string name="power">Power</string>
+    <string name="key">Key</string>
+    <string name="bulb">Bulb</string>
+    <string name="save_hint">save</string>
+    <string name="catalog_hint">catalog</string>
+    <string name="create_schema_hint">createSchema</string>
+    <string name="schema_name_hint">Schema name</string>
+    <string name="save_button_text">Save</string>
+    <string name="replace_button">Load schema</string>
+    <string name="delete_button">Delete</string>
+    <string name="saved">Saved</string>
+    <string name="deleted">Deleted</string>
+    <string name="loaded">Loaded</string>
+    <string name="storage">Storage</string>
+</resources>

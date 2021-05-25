@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_createSchema"
+        app:showAsAction="always"
+        android:icon="@drawable/create_schema"
+        android:title="@string/create_schema_hint"
+        android:theme= "@style/ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <item
+        android:id="@+id/action_save"
+        app:showAsAction="always"
+        android:icon="@drawable/save"
+        android:title="@string/save_hint"
+        android:theme= "@style/ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <item
+        android:id="@+id/action_catalog"
+        app:showAsAction="always"
+        android:icon="@drawable/catalog"
+        android:title="@string/catalog_hint"
+        android:theme= "@style/ThemeOverlay.AppCompat.Dark.ActionBar"/>
+</menu>
